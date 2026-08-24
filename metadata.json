@@ -1,0 +1,6 @@
+{
+  "name": "TeamFlow",
+  "description": "A clean, modern, and professional full-stack project management platform with real-time Kanban boards, task assignments, team collaboration, comments, and activity tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
