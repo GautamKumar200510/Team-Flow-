@@ -53,5 +53,5 @@ The application is designed with a clean and responsive interface to make projec
 - Vercel
 - Visual Studio Code
 
-## 📂 Project Structure
+
 
